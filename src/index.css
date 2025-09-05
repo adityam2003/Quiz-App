@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+body {
+  height: 100vh;
+  /* background: linear-gradient(to bottom, #D8C7FF, #19006C); */
+background: linear-gradient(to bottom, #43cea2, #185a9d);
+
+  font-family: 'Poppins', sans-serif;
+  display: flex;              
+  justify-content: center;
+  align-items: flex-start;    
+  overflow-x: hidden;         
+  padding: 20px;              
+}
