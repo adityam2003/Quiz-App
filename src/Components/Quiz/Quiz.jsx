@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import './quiz.css';
 import { ProgressBar } from './ProgressBar';
 import { HighScore } from './HighScore';
-import { getQuestions } from '../../services/quizService'; // 👈 NEW import
+import { getQuestions } from '../../Services/quizService';
 
 export const Quiz = () => {
   const navigate = useNavigate();
