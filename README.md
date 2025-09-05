@@ -18,7 +18,9 @@ A responsive quiz application built with **React + Vite** featuring live score t
 
 ## ✨ Demo Link
 
-👉 [Live Demo](https://quiz-app-hi25-bwiv0qj8h-adityas-projects-6bf72ce7.vercel.app)
+👉 [Live Demo](quiz-app-kappa-wheat.vercel.app)
+
+
 
 ## 📂 Project Structure
 
@@ -85,6 +87,40 @@ npm run build
 npm run preview
 
 ```
+## 📸 Screenshots
+```bash
+**Quiz Page**
+```
 
+
+![Quiz Screenshot](./public/ScreenShots/1.png)
+
+```bash
+**Result View**
+```
+![Quiz Screenshot](./public/ScreenShots/7.png)
+
+```bash
+**Mobile View**
+```
+
+![Quiz Screenshot](./public/ScreenShots/5.png)
+
+
+```bash
+**Timer View**
+```
+![Quiz Screenshot](./public/ScreenShots/3.png)
+
+```bash
+**Wrong Answer View**
+```
+![Quiz Screenshot](./public/ScreenShots/6.png)
+
+
+```bash
+**Correct Answer View**
+```
+![Quiz Screenshot](./public/ScreenShots/4.png)
 
 
